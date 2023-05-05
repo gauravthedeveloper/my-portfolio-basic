@@ -107,6 +107,9 @@ code {
     monospace;
 }
 
+section {
+  height: 100vh;
+}
 /* ===================================MEDIA QUERIES MEDIUM=================================*/
 @media screen and (min-width: 1024px) {
   .container {
